@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/randyWhitley/Hot-Restaurant-Reserve/issues"
   },
-  "homepage": "https://github.com/randyWhitley/Hot-Restaurant-Reserve#readme"
+  "homepage": "https://github.com/randyWhitley/Hot-Restaurant-Reserve#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
