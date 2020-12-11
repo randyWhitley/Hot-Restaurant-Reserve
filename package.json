@@ -1,0 +1,19 @@
+{
+  "name": "hot-restaurant-reserve",
+  "version": "1.0.0",
+  "description": "App to make reservation for a restaurant",
+  "main": "reserve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randyWhitley/Hot-Restaurant-Reserve.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randyWhitley/Hot-Restaurant-Reserve/issues"
+  },
+  "homepage": "https://github.com/randyWhitley/Hot-Restaurant-Reserve#readme"
+}
